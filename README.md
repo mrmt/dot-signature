@@ -1,4 +1,4 @@
-signature
+dot signature (~/.signature)
 
 > The three or four line message at the bottom of a piece of email
 > or a Usenet article which identifies the sender.  Large signatures
